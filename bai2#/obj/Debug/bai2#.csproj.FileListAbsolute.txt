@@ -1,0 +1,8 @@
+C:\Users\Win10\source\repos\bai2#\bin\Debug\bai2#.exe.config
+C:\Users\Win10\source\repos\bai2#\bin\Debug\bai2#.exe
+C:\Users\Win10\source\repos\bai2#\bin\Debug\bai2#.pdb
+C:\Users\Win10\source\repos\bai2#\obj\Debug\bai2#.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\bai2#\obj\Debug\bai2#.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\bai2#\obj\Debug\bai2#.exe
+C:\Users\Win10\source\repos\bai2#\obj\Debug\bai2#.pdb
+C:\Users\Win10\source\repos\bai2#\obj\Debug\bai2#.exe.config
