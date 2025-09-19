@@ -1,0 +1,8 @@
+C:\Users\Win10\source\repos\StudentListApp\obj\Debug\StudentListApp.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\StudentListApp\obj\Debug\StudentListApp.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\StudentListApp\bin\Debug\StudentListApp.exe.config
+C:\Users\Win10\source\repos\StudentListApp\bin\Debug\StudentListApp.exe
+C:\Users\Win10\source\repos\StudentListApp\bin\Debug\StudentListApp.pdb
+C:\Users\Win10\source\repos\StudentListApp\obj\Debug\StudentListApp.exe
+C:\Users\Win10\source\repos\StudentListApp\obj\Debug\StudentListApp.pdb
+C:\Users\Win10\source\repos\StudentListApp\obj\Debug\StudentListApp.exe.config
