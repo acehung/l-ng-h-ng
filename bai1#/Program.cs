@@ -2,7 +2,7 @@
 
 class MatrixApp
 {
-    // Hàm nhập ma trận
+    
     static int[,] InputMatrix(int rows, int cols, string name)
     {
         int[,] matrix = new int[rows, cols];
@@ -18,7 +18,7 @@ class MatrixApp
         return matrix;
     }
 
-    // Hiển thị ma trận
+    
     static void PrintMatrix(int[,] matrix)
     {
         int rows = matrix.GetLength(0);
@@ -33,7 +33,7 @@ class MatrixApp
         }
     }
 
-    // Cộng hai ma trận
+    
     static int[,] AddMatrix(int[,] A, int[,] B)
     {
         int rows = A.GetLength(0);
@@ -45,7 +45,7 @@ class MatrixApp
         return result;
     }
 
-    // Nhân hai ma trận
+    
     static int[,] MultiplyMatrix(int[,] A, int[,] B)
     {
         int rowsA = A.GetLength(0);
@@ -68,7 +68,7 @@ class MatrixApp
         return result;
     }
 
-    // Chuyển vị ma trận
+    
     static int[,] Transpose(int[,] A)
     {
         int rows = A.GetLength(0);
@@ -80,7 +80,7 @@ class MatrixApp
         return result;
     }
 
-    // Tìm max và min
+   
     static void FindMaxMin(int[,] A)
     {
         int max = A[0, 0], min = A[0, 0];
@@ -93,7 +93,7 @@ class MatrixApp
         Console.WriteLine($"Giá trị nhỏ nhất: {min}");
     }
 
-    // Tính định thức (đệ quy, chỉ cho ma trận vuông nhỏ)
+    
     static int Determinant(int[,] A)
     {
         int n = A.GetLength(0);
@@ -128,7 +128,7 @@ class MatrixApp
         return result;
     }
 
-    // Kiểm tra đối xứng
+   
     static bool IsSymmetric(int[,] A)
     {
         int rows = A.GetLength(0);
@@ -154,20 +154,20 @@ class MatrixApp
         Console.WriteLine("Ma trận A:");
         PrintMatrix(A);
 
-        // Min max
+       
         FindMaxMin(A);
 
-        // Transpose
+        
         Console.WriteLine("Ma trận chuyển vị Aᵀ:");
         PrintMatrix(Transpose(A));
 
-        // Cộng ma trận
+        
         Console.WriteLine("Nhập ma trận B để cộng với A:");
         int[,] B = InputMatrix(m, n, "B");
         Console.WriteLine("Kết quả A + B:");
         PrintMatrix(AddMatrix(A, B));
 
-        // Nhân ma trận
+        
         Console.WriteLine("Nhập ma trận C để nhân với A:");
         Console.Write("Số dòng của C: ");
         int r = int.Parse(Console.ReadLine());
@@ -181,7 +181,7 @@ class MatrixApp
             PrintMatrix(product);
         }
 
-        // Định thức
+        
         if (m == n)
         {
             Console.WriteLine("Định thức của A = " + Determinant(A));
