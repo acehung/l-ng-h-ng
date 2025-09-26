@@ -1,0 +1,14 @@
+C:\Users\Win10\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Win10\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Win10\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe.config
+C:\Users\Win10\source\repos\WindowsFormsApp6\bin\Debug\vi\WindowsFormsApp6.resources.dll
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\vi\WindowsFormsApp6.resources.dll
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.frmTinh.resources
+C:\Users\Win10\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.frmTinh.vi.resources
